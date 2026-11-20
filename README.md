@@ -1,67 +1,62 @@
-# 📚 PA Class Questions
+# PA Class Questions
 
-A comprehensive collection of **Programming & Algorithms (PA)** class questions, practice problems, assessments, and solutions in Java. This repository contains complete implementations covering course modules, data structures, and algorithms.
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Java 17+ / Java 21
-- **Topics:** Data Structures & Algorithms, Problem Solving, Assessments
-- **IDE:** Any Java-supported IDE (IntelliJ IDEA, Eclipse, VS Code)
+A curated collection of optimal Java solutions for Programming & Algorithms (PA) coursework, lab assessments, and LeetCode challenges.
 
 ---
 
-## 📁 Folder Structure
+## Tech Stack
 
-```
-PA_Class_Questions/\n├── README.md\n└── PA_Questions/\n    ├── README.md\n    ├── Week 2/     — OOP, Exception Handling, Sliding Window, Two Pointers\n    ├── Week 3/     — Arrays, ArrayList, Sliding Window, Matrix Traversal\n    ├── Week 4/     — Searching (Linear, Binary), Frequency, Subarrays\n    ├── Week 5/     — Sorting Algorithms (Bubble, Selection, Merge Sort, LeetCode)\n    ├── Week 6/     — Backtracking, Combinations, Permutations, Divide & Conquer\n    ├── Week 7/     — Recursion Fundamentals, Climbing Stairs\n    ├── Week 8/     — Singly Linked List, Deletion, Reversal, Partition\n    ├── Week 9/     — Doubly & Circular Linked List Operations, Josephus Problem\n    ├── Week 10/     — Advanced Linked List (Cycle Detection, Reorder, Copy Random)\n    ├── Week 11/     — Stack & Monotonic Stack (MinStack, Daily Temperatures, RPN)\n    ├── Week 12/     — Queue, Deque & Circular Queue (Design, Sliding Window Max)\n    ├── Week 13/     — Priority Queue & Comprehensive Queue Assessment (Q1-Q6)\n    ├── Week 14/     — Binary Trees & Traversals (Pre/In/Post/Level, BST, ZigZag)\n    ├── Week 15/     — Heaps & Advanced Priority Queue (Max Heap, IPO, Task Scheduler)\n    └── Week 16/     — Graphs & Traversal (BFS, DFS, Number of Islands, Provinces)
-```
-
----
-
-## 📖 Weekly Topics & Problems
-
-### Week 2 — OOP, Exception Handling, Sliding Window, Two Pointers\n| File | Topic |\n|---|---|\n| `ExceptionHandling.java` | ExceptionHandling |\n| `FixedSlidingWindowMaximumSum.java` | FixedSlidingWindowMaximumSum |\n| `OOPPrinciples.java` | OOPPrinciples |\n| `TwoPointerPairSum.java` | TwoPointerPairSum |\n\n### Week 3 — Arrays, ArrayList, Sliding Window, Matrix Traversal\n| File | Topic |\n|---|---|\n| `ArrayListOperations.java` | ArrayListOperations |\n| `CountSubarraysWithSumLimit.java` | CountSubarraysWithSumLimit |\n| `FixedSlidingWindowMaximumSubarraySum.java` | FixedSlidingWindowMaximumSubarraySum |\n| `IndexNegationDuplicatesDisappeared.java` | IndexNegationDuplicatesDisappeared |\n| `LeetCode118_PascalsTriangle.java` | LeetCode118 PascalsTriangle |\n| `LeetCode209_MinimumSizeSubarraySum.java` | LeetCode209 MinimumSizeSubarraySum |\n| `LeetCode442_FindAllDuplicatesInArray.java` | LeetCode442 FindAllDuplicatesInArray |\n| `LeetCode989_AddToArrayForm.java` | LeetCode989 AddToArrayForm |\n| `MaximumVowelsInSubstring.java` | MaximumVowelsInSubstring |\n| `SpiralMatrixTraversal.java` | SpiralMatrixTraversal |\n| `VariableSlidingWindow.java` | VariableSlidingWindow |\n\n### Week 4 — Searching (Linear, Binary), Frequency, Subarrays\n| File | Topic |\n|---|---|\n| `BinarySearch.java` | BinarySearch |\n| `CountOccurrencesBinarySearch.java` | CountOccurrencesBinarySearch |\n| `CountValidSubarraysSumLimit.java` | CountValidSubarraysSumLimit |\n| `FirstLastOccurrenceFrequency.java` | FirstLastOccurrenceFrequency |\n| `LeetCode33_SearchRotatedSortedArray.java` | LeetCode33 SearchRotatedSortedArray |\n| `LeetCode34_FindFirstLastPosition.java` | LeetCode34 FindFirstLastPosition |\n| `LinearSearch.java` | LinearSearch |\n| `LongestSubstringHashSet.java` | LongestSubstringHashSet |\n| `MaxLinearSearch.java` | MaxLinearSearch |\n| `MinimumLengthSubarrayTarget.java` | MinimumLengthSubarrayTarget |\n\n### Week 5 — Sorting Algorithms (Bubble, Selection, Merge Sort, LeetCode)\n| File | Topic |\n|---|---|\n| `BubbleSort.java` | BubbleSort |\n| `LeetCode2418_SortThePeople.java` | LeetCode2418 SortThePeople |\n| `LeetCode75_SortColors.java` | LeetCode75 SortColors |\n| `LeetCode88_MergeSortedArray.java` | LeetCode88 MergeSortedArray |\n| `LeetCode912_SortAnArray.java` | LeetCode912 SortAnArray |\n| `MergeSort.java` | MergeSort |\n| `SelectionSort.java` | SelectionSort |\n\n### Week 6 — Backtracking, Combinations, Permutations, Divide & Conquer\n| File | Topic |\n|---|---|\n| `LeetCode17_LetterCombinations.java` | LeetCode17 LetterCombinations |\n| `LeetCode198_HouseRobber.java` | LeetCode198 HouseRobber |\n| `LeetCode39_CombinationSum.java` | LeetCode39 CombinationSum |\n| `LeetCode40_CombinationSumII.java` | LeetCode40 CombinationSumII |\n| `LeetCode46_Permutations.java` | LeetCode46 Permutations |\n| `LeetCode47_PermutationsII.java` | LeetCode47 PermutationsII |\n| `LeetCode78_Subsets.java` | LeetCode78 Subsets |\n| `LeetCode90_SubsetsII.java` | LeetCode90 SubsetsII |\n| `QuickSort.java` | QuickSort |\n\n### Week 7 — Recursion Fundamentals, Climbing Stairs\n| File | Topic |\n|---|---|\n| `FibonacciRecursion.java` | FibonacciRecursion |\n| `HeadTailRecursion.java` | HeadTailRecursion |\n| `LeetCode401_BinaryWatch.java` | LeetCode401 BinaryWatch |\n| `LeetCode70_ClimbingStairs.java` | LeetCode70 ClimbingStairs |\n| `LeetCode746_MinCostClimbingStairs.java` | LeetCode746 MinCostClimbingStairs |\n| `SubstringsVsSubsequences.java` | SubstringsVsSubsequences |\n\n### Week 8 — Singly Linked List, Deletion, Reversal, Partition\n| File | Topic |\n|---|---|\n| `DeleteMiddleNode.java` | DeleteMiddleNode |\n| `DoublyLinkedListOperations.java` | DoublyLinkedListOperations |\n| `LeetCode147_InsertionSortList.java` | LeetCode147 InsertionSortList |\n| `LeetCode707_DesignLinkedList.java` | LeetCode707 DesignLinkedList |\n| `LeetCode86_PartitionList.java` | LeetCode86 PartitionList |\n| `LinkedListSearchAndMiddle.java` | LinkedListSearchAndMiddle |\n| `NthNodeFromEnd.java` | NthNodeFromEnd |\n| `PalindromeLinkedList.java` | PalindromeLinkedList |\n| `RemoveDuplicatesSortedList.java` | RemoveDuplicatesSortedList |\n| `ReverseKGroup.java` | ReverseKGroup |\n| `SinglyLinkedListOperations.java` | SinglyLinkedListOperations |\n\n### Week 9 — Doubly & Circular Linked List Operations, Josephus Problem\n| File | Topic |\n|---|---|\n| `CLL_CountNodes.java` | CLL CountNodes |\n| `CLL_DeleteNode.java` | CLL DeleteNode |\n| `CLL_FindMax.java` | CLL FindMax |\n| `CLL_InsertBeginning.java` | CLL InsertBeginning |\n| `CLL_JosephusProblem.java` | CLL JosephusProblem |\n| `CLL_SearchElement.java` | CLL SearchElement |\n| `CLL_SplitHalves.java` | CLL SplitHalves |\n| `CircularLinkedListOperations.java` | CircularLinkedListOperations |\n| `DLL_CheckPalindrome.java` | DLL CheckPalindrome |\n| `DLL_DeleteAllOccurrences.java` | DLL DeleteAllOccurrences |\n| `DLL_InsertAfter.java` | DLL InsertAfter |\n| `DLL_ReverseList.java` | DLL ReverseList |\n| `DLL_SecondLargest.java` | DLL SecondLargest |\n\n### Week 10 — Advanced Linked List (Cycle Detection, Reorder, Copy Random)\n| File | Topic |\n|---|---|\n| `LeetCode138_CopyListWithRandomPointer.java` | LeetCode138 CopyListWithRandomPointer |\n| `LeetCode141_LinkedListCycle.java` | LeetCode141 LinkedListCycle |\n| `LeetCode142_LinkedListCycleII.java` | LeetCode142 LinkedListCycleII |\n| `LeetCode143_ReorderList.java` | LeetCode143 ReorderList |\n| `LeetCode1721_SwappingNodesInLinkedList.java` | LeetCode1721 SwappingNodesInLinkedList |\n| `LeetCode19_RemoveNthNodeFromEnd.java` | LeetCode19 RemoveNthNodeFromEnd |\n| `LeetCode24_SwapNodesInPairs.java` | LeetCode24 SwapNodesInPairs |\n| `LeetCode61_RotateList.java` | LeetCode61 RotateList |\n| `LeetCode92_ReverseLinkedListII.java` | LeetCode92 ReverseLinkedListII |\n\n### Week 11 — Stack & Monotonic Stack (MinStack, Daily Temperatures, RPN)\n| File | Topic |\n|---|---|\n| `LeetCode150_EvaluateReversePolishNotation.java` | LeetCode150 EvaluateReversePolishNotation |\n| `LeetCode155_MinStack.java` | LeetCode155 MinStack |\n| `LeetCode394_DecodeString.java` | LeetCode394 DecodeString |\n| `LeetCode402_RemoveKDigits.java` | LeetCode402 RemoveKDigits |\n| `LeetCode503_NextGreaterElementII.java` | LeetCode503 NextGreaterElementII |\n| `LeetCode71_SimplifyPath.java` | LeetCode71 SimplifyPath |\n| `LeetCode735_AsteroidCollision.java` | LeetCode735 AsteroidCollision |\n| `LeetCode739_DailyTemperatures.java` | LeetCode739 DailyTemperatures |\n| `LeetCode901_OnlineStockSpan.java` | LeetCode901 OnlineStockSpan |\n| `StackUsingArray.java` | StackUsingArray |\n| `StackUsingLinkedList.java` | StackUsingLinkedList |\n\n### Week 12 — Queue, Deque & Circular Queue (Design, Sliding Window Max)\n| File | Topic |\n|---|---|\n| `CircularQueueImplementation.java` | CircularQueueImplementation |\n| `DequeOperations.java` | DequeOperations |\n| `LeetCode1700_NumberOfStudentsUnableToEatLunch.java` | LeetCode1700 NumberOfStudentsUnableToEatLunch |\n| `LeetCode1823_FindTheWinnerOfCircularGame.java` | LeetCode1823 FindTheWinnerOfCircularGame |\n| `LeetCode2073_TimeNeededToBuyTickets.java` | LeetCode2073 TimeNeededToBuyTickets |\n| `LeetCode225_ImplementStackUsingQueues.java` | LeetCode225 ImplementStackUsingQueues |\n| `LeetCode232_ImplementQueueUsingStacks.java` | LeetCode232 ImplementQueueUsingStacks |\n| `LeetCode239_SlidingWindowMaximum.java` | LeetCode239 SlidingWindowMaximum |\n| `LeetCode346_MovingAverageFromDataStream.java` | LeetCode346 MovingAverageFromDataStream |\n| `LeetCode622_DesignCircularQueue.java` | LeetCode622 DesignCircularQueue |\n| `LeetCode641_DesignCircularDeque.java` | LeetCode641 DesignCircularDeque |\n| `LeetCode649_Dota2Senate.java` | LeetCode649 Dota2Senate |\n| `LeetCode933_NumberOfRecentCalls.java` | LeetCode933 NumberOfRecentCalls |\n| `LeetCode950_RevealCardsInIncreasingOrder.java` | LeetCode950 RevealCardsInIncreasingOrder |\n| `PalindromeUsingDeque.java` | PalindromeUsingDeque |\n| `ReverseStringUsingDeque.java` | ReverseStringUsingDeque |\n\n### Week 13 — Priority Queue & Comprehensive Queue Assessment (Q1-Q6)\n| File | Topic |\n|---|---|\n| `AssessmentQ1_ServiceDeskQueue.java` | AssessmentQ1 ServiceDeskQueue |\n| `AssessmentQ2_CircularBufferRotation.java` | AssessmentQ2 CircularBufferRotation |\n| `AssessmentQ3_PriorityLabAccess.java` | AssessmentQ3 PriorityLabAccess |\n| `AssessmentQ4_DequePalindromeChecker.java` | AssessmentQ4 DequePalindromeChecker |\n| `AssessmentQ5_QueueUsingTwoStacks.java` | AssessmentQ5 QueueUsingTwoStacks |\n| `AssessmentQ6_SlidingWindowMaxDeque.java` | AssessmentQ6 SlidingWindowMaxDeque |\n| `HospitalManagementPriorityQueue.java` | HospitalManagementPriorityQueue |\n| `LeetCode215_KthLargestElementInArray.java` | LeetCode215 KthLargestElementInArray |\n| `LeetCode23_MergeKSortedLists.java` | LeetCode23 MergeKSortedLists |\n| `LeetCode347_TopKFrequentElements.java` | LeetCode347 TopKFrequentElements |\n| `PriorityQueueDemo.java` | PriorityQueueDemo |\n\n### Week 14 — Binary Trees & Traversals (Pre/In/Post/Level, BST, ZigZag)\n| File | Topic |\n|---|---|\n| `BinaryTreeInorderTraversal.java` | BinaryTreeInorderTraversal |\n| `BinaryTreeLevelOrderTraversal.java` | BinaryTreeLevelOrderTraversal |\n| `BinaryTreePostorderTraversal.java` | BinaryTreePostorderTraversal |\n| `BinaryTreePreorderTraversal.java` | BinaryTreePreorderTraversal |\n| `CheckCompleteBinaryTree.java` | CheckCompleteBinaryTree |\n| `ConstructBinaryTreeFromPreorderInorder.java` | ConstructBinaryTreeFromPreorderInorder |\n| `IterativeInorderTraversal.java` | IterativeInorderTraversal |\n| `IterativePostorderTraversal.java` | IterativePostorderTraversal |\n| `IterativePreorderTraversal.java` | IterativePreorderTraversal |\n| `SumNodesOnLongestPath.java` | SumNodesOnLongestPath |\n| `TreeHeightAndNodeCount.java` | TreeHeightAndNodeCount |\n| `ValidateBinarySearchTree.java` | ValidateBinarySearchTree |\n| `ZigZagTreeTraversal.java` | ZigZagTreeTraversal |\n\n### Week 15 — Heaps & Advanced Priority Queue (Max Heap, IPO, Task Scheduler)\n| File | Topic |\n|---|---|\n| `CustomMaxHeapImplementation.java` | CustomMaxHeapImplementation |\n| `LeetCode1046_LastStoneWeight.java` | LeetCode1046 LastStoneWeight |\n| `LeetCode378_KthSmallestElementInSortedMatrix.java` | LeetCode378 KthSmallestElementInSortedMatrix |\n| `LeetCode502_IPO.java` | LeetCode502 IPO |\n| `LeetCode621_TaskScheduler.java` | LeetCode621 TaskScheduler |\n| `LeetCode973_KClosestPointsToOrigin.java` | LeetCode973 KClosestPointsToOrigin |\n\n### Week 16 — Graphs & Traversal (BFS, DFS, Number of Islands, Provinces)\n| File | Topic |\n|---|---|\n| `LeetCode130_SurroundedRegions.java` | LeetCode130 SurroundedRegions |\n| `LeetCode1971_FindIfPathExistsInGraph.java` | LeetCode1971 FindIfPathExistsInGraph |\n| `LeetCode200_NumberOfIslands.java` | LeetCode200 NumberOfIslands |\n| `LeetCode547_NumberOfProvinces.java` | LeetCode547 NumberOfProvinces |\n| `LeetCode695_MaxAreaOfIsland.java` | LeetCode695 MaxAreaOfIsland |\n| `LeetCode733_FloodFill.java` | LeetCode733 FloodFill |\n| `LeetCode841_KeysAndRooms.java` | LeetCode841 KeysAndRooms |
+- **Language:** Java 17+
+- **Topics:** Data Structures & Algorithms
+- **Directory:** All code is located inside the `PA_Questions/` directory.
 
 ---
 
-## 🚀 How to Run
+## Weekly Overview
+
+| Week | Topics Covered | Problems |
+|---|---|---|
+| [Week 2](PA_Questions/Week%202) | OOP Principles, Exception Handling, Sliding Window | 4 |
+| [Week 3](PA_Questions/Week%203) | Arrays, ArrayList, Sliding Window, Matrix Traversal | 11 |
+| [Week 4](PA_Questions/Week%204) | Linear Search, Binary Search, Frequency, Subarrays | 10 |
+| [Week 5](PA_Questions/Week%205) | Sorting Algorithms (Bubble, Selection, Merge Sort) | 7 |
+| [Week 6](PA_Questions/Week%206) | Divide & Conquer, Backtracking, Subsets, Permutations | 9 |
+| [Week 7](PA_Questions/Week%207) | Recursion Fundamentals, Climbing Stairs | 6 |
+| [Week 8](PA_Questions/Week%208) | Singly Linked List Operations, Partitioning, Reversal | 11 |
+| [Week 9](PA_Questions/Week%209) | Doubly & Circular Linked Lists, Josephus Problem | 13 |
+| [Week 10](PA_Questions/Week%2010) | Advanced Linked List (Cycle Detection, Reorder List) | 9 |
+| [Week 11](PA_Questions/Week%2011) | Stack & Monotonic Stack (MinStack, Daily Temperatures) | 11 |
+| [Week 12](PA_Questions/Week%2012) | Queue, Deque & Circular Queue (Sliding Window Max) | 16 |
+| [Week 13](PA_Questions/Week%2013) | Priority Queue & Queue Assessment (Q1 to Q6) | 11 |
+| [Week 14](PA_Questions/Week%2014) | Binary Trees & Tree Traversals (Pre/In/Post, BST) | 13 |
+| [Week 15](PA_Questions/Week%2015) | Heaps & Priority Queues (Max Heap, Task Scheduler) | 6 |
+| [Week 16](PA_Questions/Week%2016) | Graphs & BFS/DFS Traversal (Islands, Provinces) | 7 |
+| [Week 17](PA_Questions/Week%2017) | HashMaps & Frequency Tables (Group Anagrams, 4Sum) | 3 |
+| **Total** | | **147** |
+
+---
+
+## How to Run
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/GoelLakshay0511/PA_Class_Questions.git
    ```
 
-2. **Navigate to any week's folder:**
+2. **Navigate to any week's directory:**
    ```bash
-   cd PA_Class_Questions/PA_Questions/"Week 16"
+   cd "PA_Questions/Week 11"
    ```
 
-3. **Compile and run any Java file:**
+3. **Compile and execute any Java file:**
    ```bash
-   javac FileName.java
-   java FileName
+   javac LeetCode155_MinStack.java
+   java LeetCode155_MinStack
    ```
 
 ---
 
-## 📊 Progress Summary
+## Author
 
-| Week | Topics Covered | Problems |
-|---|---|---|
-| Week 2 | OOP, Exception Handling, Sliding Window, Two Pointers | 4 |\n| Week 3 | Arrays, ArrayList, Sliding Window, Matrix Traversal | 11 |\n| Week 4 | Searching (Linear, Binary), Frequency, Subarrays | 10 |\n| Week 5 | Sorting Algorithms (Bubble, Selection, Merge Sort, LeetCode) | 7 |\n| Week 6 | Backtracking, Combinations, Permutations, Divide & Conquer | 9 |\n| Week 7 | Recursion Fundamentals, Climbing Stairs | 6 |\n| Week 8 | Singly Linked List, Deletion, Reversal, Partition | 11 |\n| Week 9 | Doubly & Circular Linked List Operations, Josephus Problem | 13 |\n| Week 10 | Advanced Linked List (Cycle Detection, Reorder, Copy Random) | 9 |\n| Week 11 | Stack & Monotonic Stack (MinStack, Daily Temperatures, RPN) | 11 |\n| Week 12 | Queue, Deque & Circular Queue (Design, Sliding Window Max) | 16 |\n| Week 13 | Priority Queue & Comprehensive Queue Assessment (Q1-Q6) | 11 |\n| Week 14 | Binary Trees & Traversals (Pre/In/Post/Level, BST, ZigZag) | 13 |\n| Week 15 | Heaps & Advanced Priority Queue (Max Heap, IPO, Task Scheduler) | 6 |\n| Week 16 | Graphs & Traversal (BFS, DFS, Number of Islands, Provinces) | 7 |
-| **Total** | **Progress to Date** | **144** |
-
----
-
-## 👤 Author
-
-**Lakshay Goel**
-- GitHub: [@GoelLakshay0511](https://github.com/GoelLakshay0511)
-
----
-
-## 📄 License
-
-This project is for educational purposes as part of the PA (Programming & Algorithms) course curriculum.
+**Lakshay Goel**  
+GitHub: [@GoelLakshay0511](https://github.com/GoelLakshay0511)

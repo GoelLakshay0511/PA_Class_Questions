@@ -1,26 +1,39 @@
-# 📂 PA Questions
+# PA Questions
 
-This directory contains weekly programming assignments, practice problems, and assessment solutions from the **Programming & Algorithms (PA)** course, organized by week.
+Weekly programming assignments and practice problems organized by week.
 
 ---
 
-## 📁 Weekly Breakdown
+## Weekly Breakdown
 
 | Week | Topics | Problems |
-|------|--------|----------|
-| **Week 2** | OOP, Exception Handling, Sliding Window, Two Pointers | 4 |\n| **Week 3** | Arrays, ArrayList, Sliding Window, Matrix Traversal | 11 |\n| **Week 4** | Searching (Linear, Binary), Frequency, Subarrays | 10 |\n| **Week 5** | Sorting Algorithms (Bubble, Selection, Merge Sort, LeetCode) | 7 |\n| **Week 6** | Backtracking, Combinations, Permutations, Divide & Conquer | 9 |\n| **Week 7** | Recursion Fundamentals, Climbing Stairs | 6 |\n| **Week 8** | Singly Linked List, Deletion, Reversal, Partition | 11 |\n| **Week 9** | Doubly & Circular Linked List Operations, Josephus Problem | 13 |\n| **Week 10** | Advanced Linked List (Cycle Detection, Reorder, Copy Random) | 9 |\n| **Week 11** | Stack & Monotonic Stack (MinStack, Daily Temperatures, RPN) | 11 |\n| **Week 12** | Queue, Deque & Circular Queue (Design, Sliding Window Max) | 16 |\n| **Week 13** | Priority Queue & Comprehensive Queue Assessment (Q1-Q6) | 11 |\n| **Week 14** | Binary Trees & Traversals (Pre/In/Post/Level, BST, ZigZag) | 13 |\n| **Week 15** | Heaps & Advanced Priority Queue (Max Heap, IPO, Task Scheduler) | 6 |\n| **Week 16** | Graphs & Traversal (BFS, DFS, Number of Islands, Provinces) | 7 |
-| **Total** | **Progress to Date** | **144** |
+|---|---|---|
+| [Week 2](Week%202) | OOP Principles, Exception Handling, Sliding Window | 4 |
+| [Week 3](Week%203) | Arrays, ArrayList, Sliding Window, Matrix Traversal | 11 |
+| [Week 4](Week%204) | Linear Search, Binary Search, Frequency, Subarrays | 10 |
+| [Week 5](Week%205) | Sorting Algorithms (Bubble, Selection, Merge Sort) | 7 |
+| [Week 6](Week%206) | Divide & Conquer, Backtracking, Subsets, Permutations | 9 |
+| [Week 7](Week%207) | Recursion Fundamentals, Climbing Stairs | 6 |
+| [Week 8](Week%208) | Singly Linked List Operations, Partitioning, Reversal | 11 |
+| [Week 9](Week%209) | Doubly & Circular Linked Lists, Josephus Problem | 13 |
+| [Week 10](Week%2010) | Advanced Linked List (Cycle Detection, Reorder List) | 9 |
+| [Week 11](Week%2011) | Stack & Monotonic Stack (MinStack, Daily Temperatures) | 11 |
+| [Week 12](Week%2012) | Queue, Deque & Circular Queue (Sliding Window Max) | 16 |
+| [Week 13](Week%2013) | Priority Queue & Queue Assessment (Q1 to Q6) | 11 |
+| [Week 14](Week%2014) | Binary Trees & Tree Traversals (Pre/In/Post, BST) | 13 |
+| [Week 15](Week%2015) | Heaps & Priority Queues (Max Heap, Task Scheduler) | 6 |
+| [Week 16](Week%2016) | Graphs & BFS/DFS Traversal (Islands, Provinces) | 7 |
+| [Week 17](Week%2017) | HashMaps & Frequency Tables (Group Anagrams, 4Sum) | 3 |
+| **Total** | | **147** |
 
 ---
 
-## 🚀 How to Use
+## How to Run
 
-Navigate to any week's folder and compile/run the Java file directly:
+Compile and run any Java file with `javac` and `java`:
 
 ```bash
-cd "Week 16"
-javac FileName.java
-java FileName
+cd "Week 17"
+javac LeetCode49_GroupAnagrams.java
+java LeetCode49_GroupAnagrams
 ```
-
-Each file is self-contained with its own `main()` test method and can be run independently.
